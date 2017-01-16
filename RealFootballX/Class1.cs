@@ -10,5 +10,6 @@ namespace RealFootballX
     {
         Console.Writeline("KYED ER NOOB");
         Console.Writeline("Nawb");
+        Console.Writeline("hvad sker der her");
     }
 }
