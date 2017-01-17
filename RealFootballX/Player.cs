@@ -8,10 +8,14 @@ namespace RealFootballX
 {
     class Player
     {
+        //cosmetic for the player
         public string name { get; set; }
         public int height { get; set; }
-        public double weight { get; set; }
-        public int maxspeed { get; set; }
+        //stats for the player
+        public int kick { get; set; }
+        public int physical { get; set; }
+        public int defensive { get; set; }
+        public int offensive { get; set; }
 
     }
 }
