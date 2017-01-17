@@ -23,6 +23,8 @@ namespace RealFootballX_GUI
         public MainWindow()
         {
             InitializeComponent();
+            {
+            }
         }
     }
 }
